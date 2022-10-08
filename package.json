@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ahmedfarag1993/express-server-example/issues"
   },
-  "homepage": "https://github.com/ahmedfarag1993/express-server-example#readme"
+  "homepage": "https://github.com/ahmedfarag1993/express-server-example#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
